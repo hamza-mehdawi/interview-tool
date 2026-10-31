@@ -66,3 +66,6 @@ The app opens in your browser at `http://localhost:8501`.
 | `requirements.txt` | Python packages |
 | `.gitignore` | Files that Git ignores (including `.env`) |
 
+## Deploy Model
+https://interview-tool-chatbot.streamlit.app/
+
